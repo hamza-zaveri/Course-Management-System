@@ -3,4 +3,4 @@ CRUD operations for course managment system where we can see, add, update and de
 Frontend - ReactJS
 Backend - Springboot
 DB - MySQL
-* Udpate functionality is yet to complete
+* Update functionality is yet to complete
